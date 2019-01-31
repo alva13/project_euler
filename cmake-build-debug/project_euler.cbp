@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project_euler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem002">
+				<Option output="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/problem002" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem002"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem002/fast">
+				<Option output="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/problem002" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem002/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem001">
+				<Option output="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/problem001" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem001"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem001/fast">
+				<Option output="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/problem001" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avallorani/CLionProjects/project-euler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 problem001/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/avallorani/CLionProjects/project-euler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/avallorani/CLionProjects/project-euler/problem001.c">
+			<Option target="problem001"/>
+		</Unit>
+		<Unit filename="/Users/avallorani/CLionProjects/project-euler/problem002.c">
+			<Option target="problem002"/>
+		</Unit>
+		<Unit filename="/Users/avallorani/CLionProjects/project-euler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
